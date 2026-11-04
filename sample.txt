@@ -1,0 +1,7 @@
+python
+Sql
+AI
+Data
+pandas
+numpy
+orders
